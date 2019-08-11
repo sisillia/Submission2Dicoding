@@ -35,9 +35,10 @@ public class ListMovieFragment extends Fragment {
                              @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.list_movie_fragment, container, false);
 
+        listDataAdapter = new ListDataAdapter(getContext());
+
         recyclerMovie = (RecyclerView) view.findViewById(R.id.recycler_movie);
         recyclerMovie.setHasFixedSize(true);
-        recyclerMovie.setAdapter(listDataAdapter);
 
         takeData();
         addData();

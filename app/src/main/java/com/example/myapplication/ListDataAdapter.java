@@ -9,9 +9,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
-
 import com.bumptech.glide.Glide;
-import com.bumptech.glide.request.RequestOptions;
 
 import java.util.ArrayList;
 
@@ -43,7 +41,6 @@ public class ListDataAdapter extends RecyclerView.Adapter<ListDataAdapter.ViewHo
 
         Glide.with(viewHolder.itemView.getContext())
                 .load(listData.getPhoto())
-                .apply(new RequestOptions().override(55, 55))
                 .into(viewHolder.imgPhoto);
 
         viewHolder.tvName.setText(listData.getName());
