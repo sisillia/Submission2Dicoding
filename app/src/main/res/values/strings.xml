@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Movie and Music List</string>
+    <string name="change_language">Change Language</string>
+    <string name="read_more">Read More</string>
+
+
+    <string-array name="name_movie">
+        <item>Star Wars</item>
+        <item>Jurassic Park</item>
+        <item>The Dark Knight</item>
+        <item>Spider-Man</item>
+        <item>Deadpool</item>
+        <item>Shrek the Third</item>
+        <item>Batman</item>
+        <item>X-Men</item>
+        <item>Harry Potter</item>
+        <item>The Matrix</item>
+    </string-array>
+
+    <string-array name="name_tv">
+        <item></item>
+    </string-array>
+
+    <string-array name="year_movie_eng">
+        <item>Release on 2015</item>
+        <item>Release on 2015</item>
+        <item>Release on 2008</item>
+        <item>Release on 2002</item>
+        <item>Release on 2016</item>
+        <item>Release on 1989</item>
+        <item>Release on 2014</item>
+        <item>Release on 2007</item>
+        <item>Release on 2004</item>
+        <item>Release on 2003</item>
+    </string-array>
+
+    <string-array name="desc_movie_eng">
+        <item>Star Wars beginning with the setting was thirty years after the Battle of Endor and the defeat of the Galactic Empire, portrayed in Episode VI - Return of the Jedi. The galaxy was still at war, pitting the New Republic (and its Resistance fighters and Starfighter pilots, led by Luke Skywalker is twin sister, General Leia Organa (Carrie Fisher), the ex-Princess) against the villainous forces of the First Order, successors of the Galactic Empire, fortified by Stormtroopers.</item>
+        <item>Deadly accident within Jurassic Park during the movement of a vicious creature - a velociraptor - from its heavily-fortified cage. The spectacular park was located on the secluded island of Isla Nublar 120 miles west off the coast of Costa Rica. Its wealthy entrepreneur and InGen Corporation CEO John Hammond (Richard Attenborough) faced a $20 million lawsuit unless the park was given an on-site inspection and all-clear before its imminent opening he needed outside opinions from reputable individuals "to sign off on the park.</item>
+        <item>Gotham City besieged by crime. A robbery of a high-rise office building is mob bank in Gotham City was being conducted by five clown-masked thieves (Grumpy, Chuckles, Happy, Bozo and Dopey) including their leader The Joker (Heath Ledger) with ghastly clown-makeup - who had masterminded the theft so that they would each kill each other - leaving him with all the shares. He told the downed bank manager</item><item>The film introduced the character of geeky, bespectacled Midtown HS senior Peter Parker (Tobey Maguire), who was at love from afar with his pretty, redheaded next door Queens, NY neighbor Mary Jane Watson (Kirsten Dunst), although she was the girlfriend of bullying jock Flash Thompson (Joe Manganiello). During a field trip with his class to Columbia University is Science Department where he served as photographer, Peter was bitten in the hand by a genetically-designed super-spider that had escaped from its enclosure</item>
+        <item>In the opening scene, costumed Deadpool Wade Wilson (Ryan Reynolds) rode in the back of a NYC cab. After joining the Indian cabbie Dopinder (Karan Soni) in the front seat, he was told how Dopinder lost his girlfriend Gita to his more attractive male cousin. Deadpool described how it was Christmas Day and he was seeking revenge against a guy who had disfigured his face I have been waiting, 1 year, 3 weeks, 6 days and 14 minutes to make him fix what he did to me</item>
+        <item>Film Sherk The Third opened during a dinner performance in the Medieval Times Theatre, where Prince Charming (voice of Rupert Everett) was enacting on stage his rescue of Princess Fiona from the dragon-guarded castle tower on his valiant steed Chauncey. Many Fairytale characters were seated at a table in the audience. A man dressed in a bad ogre costume, to appear like Shrek, came on the stage. Things were not going well </item>
+        <item>Disguised, black-caped crusader Batman Michael Keaton confronting two robbers in a dark, deserted, crime-ridden Gotham City alleyway after they had assaulted a tourist couple with a young boy - he kicked one thug through a doorway, and menaced the other one - warning him to tell his criminal friends about their new adversary I want you to tell all your friends about me...I am Batman</item>
+        <item>In the dystopian year of 2023 in New York City, the world was being ravaged by constant war. Central Park had been turned into a prison camp with mutants under Sentinel guard. Mutants were being hunted and exterminated by the robotic Sentinels, and the remaining humans experimented upon them to exploit their abilities. Mutants were on the brink of extinction, and the entire human race was also threatened by the apocalyptic conditions.</item>
+        <item>During the summer between his second and third year at Hogwarts, witchcraft and magic student Harry Potter (Daniel Radcliffe) was again living with the Dursleys: Uncle Vernon (Richard Griffiths) and Aunt Petunia (Fiona Shaw). He secretly practiced magic spells. During a visit when Uncle Vernon iss offensive sister Marge (Pam Ferris) insulted Harry is deceased parents and his own upbringing ("If there is something wrong with the bitch, then there s something wrong with the pup), he retaliated by inflating her into a floating balloon that sailed away. </item>
+        <item>A prologue to be reprised at the film is conclusion, about six months after the events of the first film. In a secure downtown building housing the city is electrical power re-routing facilities, a leather-clad, helmeted woman on a motorcycle crashed through its roof - she battled security guards and then announced by phone: Im in - meaning she had entered the illusory Matrix. She was revealed to be Trinity (Carrie-Anne Moss)</item>
+    </string-array>
+
+    <array name="image_movie">
+        <item>https://www.filmsite.org/featured/star-wars-sequel-C.jpg</item>
+        <item>https://www.filmsite.org/featured/movie-fr-jurpark.jpg</item>
+        <item>https://www.filmsite.org/franchises/the-dark-knight-trilogy-240x240.jpg</item>
+        <item>https://www.filmsite.org/featured/movie-fr-spiderman.jpg</item>
+        <item>https://www.filmsite.org/addons/deadpool-franchise.jpg</item>
+        <item>https://www.filmsite.org/featured/movie-fr-shrek.jpg</item>
+        <item>https://www.filmsite.org/featured/movie-fr-batman.jpg</item>
+        <item>https://www.filmsite.org/featured/movie-fr-xmenB.jpg</item>
+        <item>https://www.filmsite.org/featured/movie-fr-hpotter.jpg</item>
+        <item>https://www.filmsite.org/featured/movie-fr-matrix.jpg</item>
+    </array>
+
+
+</resources>

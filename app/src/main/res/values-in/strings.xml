@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie and Music List</string>
+    <string name="change_language">Change Language</string>
+    <string name="read_more">Read More</string>
+
+
+    <string-array name="name_movie">
+        <item>Star Wars</item>
+        <item>Jurassic Park</item>
+        <item>The Dark Knight</item>
+        <item>Spider-Man</item>
+        <item>Deadpool</item>
+        <item>Shrek the Third</item>
+        <item>Batman</item>
+        <item>X-Men</item>
+        <item>Harry Potter</item>
+        <item>The Matrix</item>
+    </string-array>
+
+    <string-array name="name_tv">
+        <item></item>
+    </string-array>
+
+    <string-array name="year_movie_eng">
+        <item>Dirilis Tahun 2015</item>
+        <item>Dirilis Tahun 2015</item>
+        <item>Dirilis Tahun 2008</item>
+        <item>Dirilis Tahun 2002</item>
+        <item>Dirilis Tahun 2016</item>
+        <item>Dirilis Tahun 1989</item>
+        <item>Dirilis Tahun 2014</item>
+        <item>Dirilis Tahun 2007</item>
+        <item>Dirilis Tahun 2004</item>
+        <item>Dirilis Tahun 2003</item>
+    </string-array>
+
+    <string-array name="desc_movie_eng">
+        <item>Star Wars dimulai dengan pengaturan tiga puluh tahun setelah Pertempuran Endor dan kekalahan Kekaisaran Galactic, digambarkan dalam Episode VI - Kembalinya Jedi. Galaksi itu masih berperang, mengadu Republik Baru (dan pejuang Perlawanan dan pilot Starfighter, yang dipimpin oleh Luke Skywalker adalah saudara kembar, Jenderal Leia Organa (Carrie Fisher), mantan Putri) melawan pasukan jahat dari Orde Pertama, penerus Kekaisaran Galactic, dibentengi oleh Stormtroopers.</item>
+        <item>Kecelakaan mematikan di dalam Jurassic Park selama pergerakan makhluk ganas - seorang velociraptor - dari sangkar yang dijaga ketat. Taman spektakuler itu terletak di pulau terpencil Isla Nublar, 120 mil di barat pantai Kosta Rika. Pengusaha kaya dan CEO InGen Corporation John Hammond (Richard Attenborough) menghadapi gugatan $ 20 juta kecuali taman diberi inspeksi di tempat dan jelas sebelum pembukaan segera ia membutuhkan pendapat luar dari orang-orang terkemuka "untuk menandatangani di taman </item>
+        <item>Kota Gotham dikepung oleh kejahatan. Perampokan sebuah gedung perkantoran bertingkat tinggi adalah mob bank di Gotham City sedang dilakukan oleh lima pencuri bertopeng badut (Grumpy, Chuckles, Happy, Bozo dan Dopey) termasuk pemimpin mereka The Joker (Heath Ledger) dengan riasan badut yang mengerikan - yang telah mendalangi pencurian sehingga mereka masing-masing akan saling membunuh - meninggalkannya dengan semua bagian. Dia mengatakan kepada manajer bank yang jatuh</item>
+        <item>Film ini memperkenalkan karakter senior SMA Midtown HS berkacamata Geek berkacamata Peter Tob (Maguire), yang sedang jatuh cinta dari kejauhan dengan tetangga sebelahnya yang cantik, berambut merah, tetangga Queens, Mary Jane Watson (Kirsten Dunst), meskipun dia adalah pacar dari atlet bullying Flash Thompson (Joe Manganiello). Selama kunjungan lapangan dengan kelasnya ke Universitas Columbia adalah Departemen Sains tempat ia menjabat sebagai fotografer, Peter digigit tangan oleh laba-laba super yang dirancang secara genetik yang telah melarikan diri dari kandangnya.</item>
+        <item>Dalam adegan pembuka, Deadpool Wade Wilson berkostum (Ryan Reynolds) berkuda di belakang taksi NYC. Setelah bergabung dengan sopir taksi India Dopinder (Karan Soni) di kursi depan, ia diberi tahu bagaimana Dopinder kehilangan kekasihnya, Gita, karena sepupu lelakinya yang lebih menarik. Deadpool menggambarkan bagaimana itu adalah Hari Natal dan dia membalas dendam terhadap seorang pria yang telah merusak wajahnya. Aku telah menunggu, 1 tahun, 3 minggu, 6 hari dan 14 menit untuk membuatnya memperbaiki apa yang dia lakukan padaku.</item>
+        <item>Film Sherk The Third dibuka saat pertunjukan makan malam di Medieval Times Theatre, di mana Pangeran Tampan (suara Rupert Everett) sedang beraksi di atas panggung penyelamatannya atas Putri Fiona dari menara kastil yang dijaga naga di Chauncey pacarnya yang gagah berani. Banyak karakter Fairytale duduk di sebuah meja di antara penonton. Seorang pria mengenakan kostum ogre yang buruk, untuk tampil seperti Shrek, datang ke atas panggung. Segalanya tidak berjalan baik</item>
+        <item>Tentara salib bertopi hitam Batman Michael Keaton menghadapi dua perampok di gang Gotham City yang gelap, sepi, dan penuh kejahatan setelah mereka menyerang pasangan turis dengan seorang anak laki-laki - dia menendang satu preman melalui pintu, dan mengancam yang lainnya - memperingatkannya untuk memberi tahu teman penjahatnya tentang musuh baru mereka, aku ingin kau memberi tahu semua temanmu tentang aku ... aku Batman</item>
+        <item>Pada tahun dystopian 2023 di New York City, dunia dirusak oleh perang terus-menerus. Central Park telah diubah menjadi kamp penjara dengan mutan di bawah penjaga Sentinel. Mutan sedang diburu dan dimusnahkan oleh Sentinel robot, dan manusia yang tersisa bereksperimen pada mereka untuk mengeksploitasi kemampuan mereka. Mutan berada di ambang kepunahan, dan seluruh umat manusia juga terancam oleh kondisi apokaliptik.</item>
+        <item>Selama musim panas antara tahun kedua dan ketiga di Hogwarts, santet dan mahasiswa sulap Harry Potter (Daniel Radcliffe) kembali hidup bersama keluarga Dursley: Paman Vernon (Richard Griffiths) dan Bibi Petunia (Fiona Shaw). Dia diam-diam berlatih mantra sihir. Selama kunjungan ketika Paman Vernon mengeluarkan saudara perempuan Marge (Pam Ferris) yang menghina, Harry menghina orang tua yang sudah meninggal dan pengasuhannya sendiri ("Jika ada yang salah dengan anjing betina itu, maka ada sesuatu yang salah dengan anak anjing itu), dia membalas dengan menggelembungkannya ke balon mengambang yang berlayar jauh.</item>
+        <item>Sebuah prolog yang akan dihapus dalam film The Matrix kali ini adalah kesimpulan, sekitar enam bulan setelah peristiwa film pertama. Di perumahan pusat kota yang aman, kota ini adalah fasilitas perutean kembali tenaga listrik, seorang wanita berbaju kulit, dengan helm di atas sepeda motor menabrak atapnya - ia melawan penjaga keamanan dan kemudian diumumkan melalui telepon: Im in - yang berarti ia telah memasuki ilusi Matriks. Dia diturunkan menjadi Trinity (Carrie-Anne Moss)</item>
+    </string-array>
+
+    <array name="image_movie">
+        <item>https://www.filmsite.org/featured/star-wars-sequel-C.jpg</item>
+        <item>https://www.filmsite.org/featured/movie-fr-jurpark.jpg</item>
+        <item>https://www.filmsite.org/franchises/the-dark-knight-trilogy-240x240.jpg</item>
+        <item>https://www.filmsite.org/featured/movie-fr-spiderman.jpg</item>
+        <item>https://www.filmsite.org/addons/deadpool-franchise.jpg</item>
+        <item>https://www.filmsite.org/featured/movie-fr-shrek.jpg</item>
+        <item>https://www.filmsite.org/featured/movie-fr-batman.jpg</item>
+        <item>https://www.filmsite.org/featured/movie-fr-xmenB.jpg</item>
+        <item>https://www.filmsite.org/featured/movie-fr-hpotter.jpg</item>
+        <item>https://www.filmsite.org/featured/movie-fr-matrix.jpg</item>
+    </array>
+</resources>
