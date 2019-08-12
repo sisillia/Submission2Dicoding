@@ -48,10 +48,10 @@ public class ListTvFragment extends Fragment {
 
 
     private void takeData(){
-        dataName = getResources().getStringArray(R.array.name_movie);
+        dataName = getResources().getStringArray(R.array.name_tv);
         dataYear = getResources().getStringArray(R.array.year_movie_eng);
-        dataDesc = getResources().getStringArray(R.array.desc_movie_eng);
-        dataPhoto = getResources().getStringArray(R.array.image_movie);
+        dataDesc = getResources().getStringArray(R.array.desc_tv);
+        dataPhoto = getResources().getStringArray(R.array.image_tvshow);
     }
 
     private void addData() {

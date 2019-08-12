@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Movie and Music List</string>
+    <string name="app_name">Movie and TV Show List</string>
     <string name="change_language">Change Language</string>
     <string name="read_more">Read More</string>
 
@@ -18,7 +18,20 @@
     </string-array>
 
     <string-array name="name_tv">
-        <item></item>
+        <item>MBC’s Money Flower</item>
+        <item>JTBC’s Knowing Bros</item>
+        <item>KBS2’s 1 Night 2 Days</item>
+        <item>SBS’s My Little Old Bo</item>
+        <item>MBC’s I Live Alone</item>
+        <item>tvN’s Prison Playbook</item>
+        <item>JTBC’s Ssulzun</item>
+        <item>tvNs’ Youn’s Kitchen 2</item>
+        <item>MBC’s Infinity Challenge</item>
+        <item>KBS2’s My Golden Life</item>
+    </string-array>
+
+    <string-array name="year_tvshow">
+
     </string-array>
 
     <string-array name="year_movie_eng">
@@ -46,6 +59,19 @@
         <item>A prologue to be reprised at the film is conclusion, about six months after the events of the first film. In a secure downtown building housing the city is electrical power re-routing facilities, a leather-clad, helmeted woman on a motorcycle crashed through its roof - she battled security guards and then announced by phone: Im in - meaning she had entered the illusory Matrix. She was revealed to be Trinity (Carrie-Anne Moss)</item>
     </string-array>
 
+    <string-array name="desc_tv">
+        <item>Money Flower (Hangul: 돈꽃 RR: Donkkot) is a 2017 South Korean television series starring Jang Hyuk and Park Se-young. The drama is scheduled to air every Saturday and Sunday at MBC starting November 11, 2017. [2] This drama tells the story of people who are driven by greed. Kang Pil-Joo (Jang Hyuk) grew up at an orphanage, but he now works as a managing director of a legal team at a corporation. He is acknowledged for his intelligence and his exemplary job performance. Some of those that work around him are jealous of him.</item>
+        <item>Knowing Bros (Korean: 아는 형님; RR: Aneun Hyeongnim) is a South Korean variety show, distributed by JTBC every Saturday. This show is classified as a reality television-variety show, where the MCs and guests gather in a classroom environment and discuss personal topics. Knowing Bros first aired on December 5, 2015.As of August 10, 2019, 192 episodes of Knowing Bros have been aired. In the past year the JTBC Ask Us Anything or Knowing Brother (KB) program has become a phenomenon in South Korea. Its popularity can even match phenomenal programs such as Infinity Challenge, 1 Day 2 Nights and Runningman</item>
+        <item>1 Night 2 Days (Hangul: 1 박 2 일; also known as 2 Days and 1 Night; abbreviated as 1N2D) is a variety-reality show aired on the KBS2 network. 1N2D is one of the segments on the Happy Sunday event. Until now, 1N2D has experienced several member changes and is now undergoing its third season. The current permanent members are Kim Jong-min, Cha Tae-hyun, Kim Joon-ho, Defconn, Yoon Shi-yoon, and Jung Joon-young. The concept of this event is Real wild road variety where members explore South Korea to recommend viewers to a number of interesting places in the country.</item>
+        <item>My Little Old Boy (a.k.a. Moms Diary: My Ugly Duckling; Korean: 미운 우리 새끼; RR: Miun Uri Saekki) is a South Korean television entertainment program, distributed and syndicated by SBS every Sunday at 21:05 (KST). This program features Korean celebrity hits that comment on the videos of their boys. Aiguu mom neolithic era</item>
+        <item>I Live Alone (Korean: 나 혼자 산다; RR: Na Honja Sanda), also known as Home Alone,[2] is a South Korean television entertainment program, distributed and syndicated by MBC every Friday at 23:00 (KST). This TV show 1 is slide, yup this program from MBC has a unique concept. The concept is to show someone daily routine that is displayed real without a script</item>
+        <item>Prison Playbook [2] (Hangul: 슬기로운 감빵 생활 RR: Seulgirowun Gamppangsaenghwallit. Wise Prison Life) is a forthcoming South Korean television series in 2017 directed by Shin Won-ho and starring Jung Kyung-ho and Park Hae-soo. This series marks Park Hae-soos first major role. This drama will be aired on tvN starting November 22, 2017 on Wednesday and Thursday at 21:30 (WSK).</item>
+        <item>The October 24th episode of JTBC "Ssulzun" featured guests such as Kim Soo Hyun, Moon Young Nam, Lim Sung Han, and Kim Eun Sook.In this broadcast, Kim Heechul said, (I asked writer Kim Eun Sook) about romantic comedy replication.He said, Kim Eun Sook responded with, It is true that is a romantic comedy clone. However, its not just something anyone can do. Only I can write things such as the foam kiss, and lines such as Lets go, baby ."He continued, "She also said, I started with replicating and developed it further. People who cannot develop cannot produce such works</item>
+        <item>tvN will be marking the beginning of 2018 with Youns Kitchen 2.tvNs Youns Kitchen 2, which is returning with a new season, will air its first episode in January of 2018. Youns Kitchen 2 will feature actors Yoon Yeo Jung, Lee Seo Jin, Jung Yoo Mi, and Park Seo Joon as they manage a Korean restaurant in a small village in Spain.“Youn’s Kitchen 2,” which has been confirmed to follow the end of “Encyclopedia of Useless Facts 2,” has also shared the differences from the first season.</item>
+        <item>Infinite Challenge (aka Muhan Dojeon; Hangul: 무한 도전 Hanja: 無限 挑戰; abbreviated as Mudo) is a Korean comedy television program, which is distributed and syndicated by MBC. As of January 2013, this event still had the largest market share for its broadcast time, between 13.8 percent and 19.7 percent of Korean television viewers watching Muhan Dojeon at 6:30 PM KST every Saturday night. [2] It also makes this event the leading free-to-air (non-cable) program for Saturday nights and is the most watched non-drama program (excluding special sporting events) in South Korea since November 2006 (with the exception of in January 2009, [3] April and May 2010 [4]).</item>
+        <item>Since the success of the Descendants of the Sun series, starring Song Joong Ki and Song Hye Kyo early last year, no South Korean drama has been able to break the 40 percent rating. The average drama from the State of Ginseng is only able to reap a dozen rating of up to 20 percent.But this year the highest drama rating has just been inscribed. The history is printed serials My Golden Life. The drama written by So Hyun Kyung successfully broke the rating to 37.9 percent.Although it hasnt reached 40 percent yet, the drama is stable with a rating of 35 percent. Two episodes of My Golden Life that just aired this weekend recorded an average rating of 35 percent, occupying the highest rating of all television broadcasts that aired on that day.</item>
+    </string-array>
+
     <array name="image_movie">
         <item>https://www.filmsite.org/featured/star-wars-sequel-C.jpg</item>
         <item>https://www.filmsite.org/featured/movie-fr-jurpark.jpg</item>
@@ -57,6 +83,19 @@
         <item>https://www.filmsite.org/featured/movie-fr-xmenB.jpg</item>
         <item>https://www.filmsite.org/featured/movie-fr-hpotter.jpg</item>
         <item>https://www.filmsite.org/featured/movie-fr-matrix.jpg</item>
+    </array>
+
+    <array name="image_tvshow">
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-2.jpg</item>
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-3.png</item>
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-4.jpg</item>
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-5.jpg</item>
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-6.jpg</item>
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-7.jpg</item>
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-8.jpg</item>
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-9.png</item>
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-10.jpg</item>
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-11.jpg</item>
     </array>
 
 

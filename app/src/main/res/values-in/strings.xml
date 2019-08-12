@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Movie and Music List</string>
+    <string name="app_name">Movie and TV Show List</string>
     <string name="change_language">Change Language</string>
     <string name="read_more">Read More</string>
 
@@ -19,7 +19,16 @@
     </string-array>
 
     <string-array name="name_tv">
-        <item></item>
+        <item>MBC’s Money Flower</item>
+        <item>JTBC’s Knowing Bros</item>
+        <item>KBS2’s 1 Night 2 Days</item>
+        <item>SBS’s My Little Old Bo</item>
+        <item>MBC’s I Live Alone</item>
+        <item>tvN’s Prison Playbook</item>
+        <item>JTBC’s Ssulzun</item>
+        <item>tvNs’ Youn’s Kitchen 2</item>
+        <item>MBC’s Infinity Challenge</item>
+        <item>KBS2’s My Golden Life</item>
     </string-array>
 
     <string-array name="year_movie_eng">
@@ -48,6 +57,19 @@
         <item>Sebuah prolog yang akan dihapus dalam film The Matrix kali ini adalah kesimpulan, sekitar enam bulan setelah peristiwa film pertama. Di perumahan pusat kota yang aman, kota ini adalah fasilitas perutean kembali tenaga listrik, seorang wanita berbaju kulit, dengan helm di atas sepeda motor menabrak atapnya - ia melawan penjaga keamanan dan kemudian diumumkan melalui telepon: Im in - yang berarti ia telah memasuki ilusi Matriks. Dia diturunkan menjadi Trinity (Carrie-Anne Moss)</item>
     </string-array>
 
+    <string-array name="desc_tv">
+        <item>Money Flower (Hangul: 돈꽃RR: Donkkot) adalah serial televisi Korea Selatan tahun 2017 yang dibintangi Jang Hyuk dan Park Se-young. Drama ini dijadwalkan mengudara setiap hari Sabtu dan Minggu di MBC mulai 11 November 2017.[2] Drama ini menceritakan tentang orang-orang yang didorong oleh keserakahan. Kang Pil-Joo (Jang Hyuk) tumbuh di panti asuhan, tetapi sekarang ia bekerja sebagai direktur pelaksana tim hukum di sebuah perusahaan. Ia dikenal karena kecerdasannya dan kinerja pekerjaannya yang patut dicontoh. Beberapa dari mereka yang bekerja di sekitarnya cemburu padanya.</item>
+        <item>Knowing Bros (Bahasa Korea: 아는 형님; RR: Aneun Hyeongnim) adalah variety show Korea Selatan, yang didistribusikan oleh JTBC setiap hari Sabtu. Acara ini digolongkan sebagai reality show variety-televisi, di mana MC dan tamu berkumpul di lingkungan kelas dan mendiskusikan topik pribadi. Knowing Bros pertama kali ditayangkan pada 5 Desember 2015.Pada 10 Agustus 2019, 192 episode Knowing Bros telah ditayangkan. Satu tahun belakangan program JTBC Ask Us Anything atau Knowing Brother (KB) telah menjadi fenomena tersendiri di Korea Selatan. Kepopulerannya bahkan bisa menyamai program fenomenal seperti Infinity Challenge, 1 Day 2 Nights dan juga Runningman</item>
+        <item>1 Night 2 Days (Hangul: 1박 2일; juga dikenal sebagai 2 Days dan 1 Night; disingkat 1N2D) adalah acara varietas-realitas yang ditayangkan di jaringan KBS2. 1N2D adalah salah satu segmen pada acara Happy Sunday. Hingga saat ini, 1N2D telah mengalami beberapa pergantian anggota dan kini menjalani musim ketiganya. Anggota tetap saat ini adalah Kim Jong-min, Cha Tae-hyun, Kim Joon-ho, Defconn, Yoon Shi-yoon, dan Jung Joon-young. Konsep acara ini adalah Real wild road variety di mana para anggotanya menjelajahi Korea Selatan untuk merekomendasikan pemirsa sejumlah tempat menarik di negara tersebut.</item>
+        <item>My Little Old Boy (alias Moms Diary: My Ugly Duckling; Hangul: 미운 우리 새끼RR: Miun Uri Saekki) adalah sebuah acara hiburan televisi Korea Selatan. Acara tersebut didistribusikan dan disindikasi oleh SBS setiap Minggu pukul 21:05 (KST). Acara ini menampilkan tentang para eomma-eomma hits selebriti Korea yang mengomentari video dari anak laki-laki mereka. Aiguu mom zaman neolitikum</item>
+        <item>I Live Alone (Bahasa Korea: 나 혼자 산다; RR: Na Honja Sanda), juga dikenal sebagai Home Alone, [2] adalah program hiburan televisi Korea Selatan, didistribusikan dan disindikasikan oleh MBC setiap hari Jumat pukul 23:00 (KST). acara TV 1 ini ges, yap acara dari MBC ini memiliki konsep unik. Konsepnya adalah menampilkan rutinitas keseharian seseorang yang terpampang nyata tanpa naskah</item>
+        <item>Prison Playbook[2] (Hangul: 슬기로운 감빵생활RR: Seulgirowun Gamppangsaenghwallit. Wise Prison Life) adalah serial televisi Korea Selatan akan datang tahun 2017 yang disutradarai Shin Won-ho dan dibintangi oleh Jung Kyung-ho dan Park Hae-soo. Serial ini menandai peran utama Park Hae-soo yang pertama. Drama ini akan ditayangkan di tvN mulai 22 November 2017 pada hari Rabu dan Kamis pukul 21.30 (WSK).</item>
+        <item>Episode 24 Oktober dari JTBC "Ssulzun" menampilkan tamu seperti Kim Soo Hyun, Moon Young Nam, Lim Sung Han, dan Kim Eun Sook.Dalam siaran ini, Kim Heechul berkata, "(Saya bertanya kepada penulis Kim Eun Sook) tentang replikasi komedi romantis."Dia berkata, "Kim Eun Sook menjawab dengan, Memang benar itu adalah klon komedi romantis. Namun, itu bukan hanya sesuatu yang dapat dilakukan oleh siapa pun. Hanya saya yang dapat menulis hal-hal seperti ciuman busa, dan garis-garis seperti Ayo pergi, sayang. "Dia melanjutkan, "Dia juga berkata, Saya mulai dengan mereplikasi dan mengembangkannya lebih lanjut. Orang yang tidak dapat berkembang tidak dapat menghasilkan karya seperti itu</item>
+        <item>TVN akan menandai awal tahun 2018 dengan "Youn’s Kitchen 2." TVN "Youns Kitchen 2," yang kembali dengan musim baru, akan mengudarakan episode pertamanya pada Januari 2018. "Youns Kitchen 2" akan menampilkan aktor Yoon Yeo Jung, Lee Seo Jin, Jung Yoo Mi, dan Park Seo Joon sebagai mereka mengelola sebuah restoran Korea di sebuah desa kecil di Spanyol."Youn’s Kitchen 2," yang telah dikonfirmasi untuk mengikuti akhir "Encyclopedia of Useless Facts 2," juga telah berbagi perbedaan dari musim pertama.</item>
+        <item>Infinite Challenge (alias Muhan Dojeon; Hangul: 무한도전Hanja: 無限挑戰; disingkat Mudo) adalah sebuah program televisi komedi Korea, yang didistribusikan dan disindikasikan oleh MBC. Hingga Januari 2013, acara ini masih memiliki pangsa pasar terbesar untuk waktu tayangnya, antara 13,8 persen dan 19,7 persen pemirsa televisi Korea menyaksikan Muhan Dojeon pada pukul 6:30 PM KST setiap Sabtu malam.[2] Hal itu juga membuat acara ini menjadi program free-to-air (non-kabel) unggulan untuk Sabtu malam sekaligus menjadi program non-drama (tidak termasuk event olahraga spesial) yang paling banyak ditonton di Korea Selatan setiap minggunya sejak November 2006 (dengan pengecualian pada Januari 2009,[3] April and Mei 2010[4]).</item>
+        <item>Sejak kesuksesan serial Descendants of the Sun yang dibintangi Song Joong Ki dan Song Hye Kyo awal tahun lalu, tak ada drama Korea Selatan yang mampu menembus rating 40 persen. Rata-rata drama dari Negeri Ginseng hanya mampu meraup rating belasan hingga 20 persen.Namun tahun ini rating drama tertinggi baru saja ditorehkan. Sejarah itu dicetak serial My Golden Life. Drama yang ditulis So Hyun Kyung itu berhasil menembus rating sampai 37,9 persen.Meski belum mencapai 40 persen, drama itu stabil dengan rating 35 persen. Dua episode My Golden Life yang baru saja tayang akhir pekan ini mencatatkan rating rata-rata 35 persen, menempati rating tertinggi dari seluruh siaran televisi yang tayang pada hari itu.</item>
+    </string-array>
+
     <array name="image_movie">
         <item>https://www.filmsite.org/featured/star-wars-sequel-C.jpg</item>
         <item>https://www.filmsite.org/featured/movie-fr-jurpark.jpg</item>
@@ -59,5 +81,18 @@
         <item>https://www.filmsite.org/featured/movie-fr-xmenB.jpg</item>
         <item>https://www.filmsite.org/featured/movie-fr-hpotter.jpg</item>
         <item>https://www.filmsite.org/featured/movie-fr-matrix.jpg</item>
+    </array>
+
+    <array name="image_tvshow">
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-2.jpg</item>
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-3.png</item>
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-4.jpg</item>
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-5.jpg</item>
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-6.jpg</item>
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-7.jpg</item>
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-8.jpg</item>
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-9.png</item>
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-10.jpg</item>
+        <item>https://inikpop.com/wp-content/uploads/2018/01/10-TV-Show-Korea-yang-paling-diminati-oleh-warga-Korea-wajib-nonton-11.jpg</item>
     </array>
 </resources>

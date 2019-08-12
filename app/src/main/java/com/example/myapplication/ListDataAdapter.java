@@ -1,6 +1,7 @@
 package com.example.myapplication;
 
 import android.content.Context;
+import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -37,7 +38,7 @@ public class ListDataAdapter extends RecyclerView.Adapter<ListDataAdapter.ViewHo
 
     @Override
     public void onBindViewHolder(@NonNull ViewHolder viewHolder, int position) {
-        ListData listData = list.get(position);
+        final ListData listData = list.get(position);
 
         Glide.with(viewHolder.itemView.getContext())
                 .load(listData.getPhoto())
@@ -46,6 +47,21 @@ public class ListDataAdapter extends RecyclerView.Adapter<ListDataAdapter.ViewHo
         viewHolder.tvName.setText(listData.getName());
         viewHolder.tvYear.setText(listData.getYear());
         viewHolder.tvDesc.setText(listData.getLongDesc());
+
+        viewHolder.btnReadMore.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                ListData list = new ListData();
+                list.setName(listData.getName());
+                list.setYear(listData.getYear());
+                list.setLongDesc(listData.getLongDesc());
+                list.setPhoto(listData.getPhoto());
+
+                Intent sendData = new Intent(context,DetailActivity.class);
+                sendData.putExtra(DetailActivity.EXTRA_DATA,list);
+                context.startActivity(sendData);
+            }
+        });
 
     }
 
