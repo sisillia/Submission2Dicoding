@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Movie and TV Show List</string>
-    <string name="change_language">Change Language</string>
-    <string name="read_more">Read More</string>
+    <string name="app_name">List Film dan List Tv Show</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="read_more">Baca Lebih Banyak</string>
 
 
     <string-array name="name_movie">
