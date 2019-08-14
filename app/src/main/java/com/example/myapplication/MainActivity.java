@@ -24,8 +24,8 @@ public class MainActivity extends AppCompatActivity {
         tabLayout = (TabLayout) findViewById(R.id.tabLayout);
 
         tabListAdapter = new TabListAdapter(getSupportFragmentManager());
-        tabListAdapter.addFragment(new ListMovieFragment(), "List Movie");
-        tabListAdapter.addFragment(new ListTvFragment(), "List TV");
+        tabListAdapter.addFragment(new ListMovieFragment(), getResources().getString(R.string.title_fragment_movie));
+        tabListAdapter.addFragment(new ListTvFragment(), getResources().getString(R.string.title_fragment_tvshow));
 
         viewPager.setAdapter(tabListAdapter);
         tabLayout.setupWithViewPager(viewPager);

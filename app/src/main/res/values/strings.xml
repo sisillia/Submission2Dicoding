@@ -3,6 +3,9 @@
     <string name="change_language">Change Language</string>
     <string name="read_more">Read More</string>
 
+    <string name = "title_fragment_movie">List Movie</string>
+    <string name = "title_fragment_tvshow">List TV Show</string>
+
 
     <string-array name="name_movie">
         <item>Star Wars</item>
